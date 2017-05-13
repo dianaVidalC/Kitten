@@ -32,7 +32,7 @@ picture{
   }
 }
 
-@media screen and (min-width:600px) and (max-width:900px){
+@media screen and (min-width:600px) and (max-width:1000px){
 
   div.kitten{
     background-image: url(../assets/img/dawn.png);
